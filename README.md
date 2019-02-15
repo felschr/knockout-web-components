@@ -7,9 +7,8 @@ It's compatible with standard web components and thus also allows integration of
 ## Installation
 
 ```sh
-npm i github:FelschR/knockout-web-components
+npm i knockout-web-components
 ```
-Soon this library will also be available via npm directly.
 
 ## Usage
 

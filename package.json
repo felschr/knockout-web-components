@@ -1,6 +1,6 @@
 {
   "name": "knockout-web-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A bridge to be able to integrate web components with knockout.js",
   "main": "./dist/index.js",
   "module": "index.js",
