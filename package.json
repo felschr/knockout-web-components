@@ -1,7 +1,7 @@
 {
   "name": "knockout-web-components",
   "version": "1.0.0",
-  "description": "A bridge to be able to use web components with knockout.js",
+  "description": "A bridge to be able to integrate web components with knockout.js",
   "main": "./dist/index.js",
   "module": "index.js",
   "esnext": "index.js",
